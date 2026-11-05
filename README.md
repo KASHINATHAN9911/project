@@ -1,2 +1,2 @@
-# project
-my name is haruto senpai
+# cse assignment
+my name is kashinathan
